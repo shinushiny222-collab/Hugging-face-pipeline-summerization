@@ -150,8 +150,7 @@ It provides a simple way to explore text summarization, translation, sentiment a
 
 ## Author
 
-**Aseniya Shiny**
+**Aseniya Shiny A**
 
 B.Sc. Computer Science with Artificial Intelligence
 
-GitHub: [Add your GitHub profile link here]
